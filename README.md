@@ -26,4 +26,4 @@ Welcome to my Data Analyst Portfolio! This repository contains a collection of d
 
 Each project is located in its respective folder with a dedicated README file explaining the purpose, datasets, and steps to reproduce the results. You can explore the code, visuals, and methodologies used in each analysis.
 
-Feel free to explore the repository, clone it, or reach out if you have any questions about my work!
+Feel free to explore the repository, clone it, or reach out if you have any questions about my work.
