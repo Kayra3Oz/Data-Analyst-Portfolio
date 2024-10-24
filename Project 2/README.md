@@ -4,7 +4,7 @@
 
 In this project, we will conduct a data analysis using the Stack Overflow Annual Developer Survey dataset. Our goal is to answer the following questions:
 
-1. In which companies do developers earn the most?
+1. In which country do developers earn the most?
 2. How important is remote working for workers?
 3. How much influence does coding experience have on salary?
 4. Do individuals with a master's degree have a better chance of securing a job as a developer?
